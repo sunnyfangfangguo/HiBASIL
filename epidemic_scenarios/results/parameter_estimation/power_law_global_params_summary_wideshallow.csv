@@ -1,0 +1,6 @@
+﻿,Model,Parameter,True Value,N Simulations,Mean Estimate,Mean Bias,Mean Abs Bias,Mean Relative Error,Coverage,Converged,Low ESS,Mean R-hat,Mean ESS (bulk)
+0,power_law,scale1,15.00,100,12.59 ± 2.47,-2.41 ± 2.47,2.92,19.49,86.0%,98.0%,0.0%,1.00,9451
+1,power_law,exponent1,1.50,100,1.48 ± 0.16,-0.02 ± 0.16,0.13,8.59,98.0%,100.0%,0.0%,1.00,9789
+2,power_law,q_param,0.01,100,0.01 ± 0.00,0.00 ± 0.00,0.00,27.30,98.0%,99.0%,2.0%,1.00,22744
+3,power_law,pi0,0.30,100,0.30 ± 0.01,0.00 ± 0.01,0.01,3.86,98.0%,98.0%,0.0%,1.00,22075
+4,power_law,phi,18.00,100,18.10 ± 0.91,0.10 ± 0.91,0.72,4.01,95.0%,99.0%,1.0%,1.00,21575
