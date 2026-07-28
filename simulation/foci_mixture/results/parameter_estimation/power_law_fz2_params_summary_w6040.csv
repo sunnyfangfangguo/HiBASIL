@@ -1,0 +1,11 @@
+﻿,Metric,Value
+0,Model,power_law
+1,True Value,0.80
+2,N Simulations,100
+3,Mean Estimate,0.84 ± 0.02
+4,Mean Bias,0.04 ± 0.02
+5,RMSE,0.05 ± 0.02
+6,Coverage Rate,100.00 ± 0.00
+7,Mean R-hat,1.00
+8,Mean ESS (bulk),13856
+9,N with ESS < 400,0.2
