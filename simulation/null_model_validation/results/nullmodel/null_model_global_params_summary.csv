@@ -1,0 +1,5 @@
+﻿,Model,Parameter,True Value,N Simulations,Mean Estimate,Mean Bias,Mean Abs Bias,Mean Relative Error,Coverage,Converged,Low ESS,Mean R-hat,Mean ESS (bulk)
+0,null_model,q_param,0.01,100,0.01 ± 0.00,0.00 ± 0.00,0.00,29.90,96.0%,100.0%,0.0%,1.00,35266
+1,null_model,pi0,0.50,100,0.50 ± 0.02,0.00 ± 0.02,0.01,2.57,95.0%,100.0%,0.0%,1.00,39110
+2,null_model,phi,18.00,100,18.14 ± 1.17,0.14 ± 1.17,0.97,5.39,93.0%,100.0%,0.0%,1.00,43548
+3,null_model,p_param,0.50,100,0.50 ± 0.02,0.00 ± 0.02,0.01,2.57,95.0%,100.0%,0.0%,1.00,39110

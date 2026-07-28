@@ -1,0 +1,5 @@
+﻿Model,Parameter,Prior μ,Prior σ,Posterior μ (avg),Posterior σ (avg),Mean Shift,Relative Shift,Overlap,Success Rate
+exponential,scale1,15.58,11.87,15.92 ± 0.07,12.08,-0.02 ± 0.36,-0.1% ± 2.2%,94.7% ± 0.7%,100.0%
+gaussian,scale1,15.58,11.87,15.92 ± 0.07,12.08,-0.02 ± 0.36,-0.1% ± 2.2%,94.7% ± 0.7%,100.0%
+power_law,scale1,15.58,11.87,15.96 ± 0.08,12.05,0.02 ± 0.36,0.2% ± 2.3%,94.8% ± 0.6%,100.0%
+power_law,exponent1,2.03,0.99,2.00 ± 0.01,1.01,0.01 ± 0.03,0.4% ± 1.5%,94.7% ± 0.7%,100.0%

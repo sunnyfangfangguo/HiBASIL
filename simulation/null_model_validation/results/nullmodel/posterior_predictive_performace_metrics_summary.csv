@@ -1,0 +1,4 @@
+,overall_r2,overall_r2,overall_rmse,overall_rmse,overall_mae,overall_mae,obs_zeros,obs_zeros,pred_zeros,pred_zeros,obs_ones,obs_ones,pred_ones,pred_ones,continuous_r2,continuous_r2,continuous_rmse,continuous_rmse
+,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std,mean,std
+model_type,,,,,,,,,,,,,,,,,,
+null_model,-0.00033222553350944697,0.0005454499659791618,0.1332774874784093,0.0061883083006573835,0.10746004149900713,0.002726506626050302,0.50193,0.0159096279851624,0.5019160465625,0.015866315290337895,0.0047,0.001972026594366539,0.005573969375,0.0019288291734034994,-1.0973974459440778,0.1191519774368695,0.13200245583521736,0.005403495178889647
