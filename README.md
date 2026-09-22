@@ -29,9 +29,9 @@ the generative true foci (crosses) using weakly informative priors.</figcaption>
 
 We provide standalone, documented scripts to guide users through different levels of spatial complexity:
 
-1. [Single-Focus Localization](https://github.com/fguo7_ncstate/HiBASIL/tree/main/tutorial/single_focus): The "Needle in a Haystack" tutorial. Learns to find one unknown origin and its decay parameters.
+1. [Single-Focus Localization](https://github.com/sunnyfangfangguo/HiBASIL/tree/main/tutorial/single_focus): The "Needle in a Haystack" tutorial. Learns to find one unknown origin and its decay parameters.
 
-2. [Two-Foci Resolution](https://github.com/fguo7_ncstate/HiBASIL/tree/main/tutorial/two_foci): The "Spatial Mixture" tutorial. Learns to separate two verlapping signals and infer their mixture weights.
+2. [Two-Foci Resolution](https://github.com/sunnyfangfangguo/HiBASIL/tree/main/tutorial/two_foci): The "Spatial Mixture" tutorial. Learns to separate two verlapping signals and infer their mixture weights.
 
-3. [Epicenter of the Historical Cholera Outbreak](https://github.com/fguo7_ncstate/HiBASIL/tree/main/tutorial/cholera): The "Real-World Mystery" scenario. Learn to use HiBASIL to detect the epicenter in complex Human society environment.
+3. [Epicenter of the Historical Cholera Outbreak](https://github.com/sunnyfangfangguo/HiBASIL/tree/main/tutorial/cholera): The "Real-World Mystery" scenario. Learn to use HiBASIL to detect the epicenter in complex Human society environment.
 
